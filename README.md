@@ -1,4 +1,4 @@
-# Final Project Repository
+# Final Project Repository(shoaib)
 
 ## Project Overview
 This repository contains the files and scripts for the Final Project. The project focuses on hands-on practice with Git and GitHub, including repository management, branching, and pull requests.
